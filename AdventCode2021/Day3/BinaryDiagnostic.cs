@@ -1,7 +1,7 @@
 ﻿namespace AdventCode2021 {
     public class BinaryDiagnostic {
 
-        private string[]? Numbers { get; set; }
+        private string[] Numbers { get; set; }
         public String Gamma { get; set; }
         public String Elipson { get; set; }
         public String Oxigen { get; set; }
